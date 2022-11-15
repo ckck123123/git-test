@@ -7,5 +7,6 @@ public class qwe {
         System.out.println();
         System.out.println();
         System.out.println();
+        System.out.println(“pull”);
     }
 }
